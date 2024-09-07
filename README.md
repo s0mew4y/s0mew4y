@@ -1,6 +1,5 @@
 ### Hi!, I'm Rafael de Freitas 👋
 
-[![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/FreitasRaff)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/freitas.raff/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-freitas-9345492b5/)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/raffz__)
